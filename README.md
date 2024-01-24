@@ -23,7 +23,7 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 
  Happy Learning!
 
- P.s.: If you want to learn about Kafka, check out my [Kafka Learning Resources](../kafka-learning-resources) as well.
+ P.s.: If you want to learn about Kafka, check out my [Kafka Learning Resources](/pmoskovi/kafka-learning-resources) as well.
 ## Table of Contents 
 * [Skill Level](#skill-level)
   * [Beginner](#beginner)
