@@ -22,6 +22,8 @@ Your input and participation are what make this repository a valuable resource f
 Thank you for visiting and contributing to this collaborative effort. Together, we can make learning Apache Flink accessible and effective for everyone.
 
  Happy Learning!
+
+ P.s.: If you want to learn about Kafka, check out my [Kafka Learning Resources](../kafka-learning-resources) as well.
 ## Table of Contents 
 * [Skill Level](#skill-level)
   * [Beginner](#beginner)
