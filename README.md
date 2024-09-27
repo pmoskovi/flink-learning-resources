@@ -81,6 +81,8 @@ to the Java Flink APIs. | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Video](#video)
 * [The Python API for Flink: PyFlink](https://nightlies.apache.org/flink/flink-docs-stable/docs/dev/python/overview/): Whether it's the datastream or table API with SQL, PyFlink has you covered. | Source: https://apache.org/flink
 <br/>Tags: [Beginner](#beginner), [Documentation](#documentation), [Python](#python)
+* [Apache Flink SQL](https://developer.confluent.io/courses/flink-sql): Exploring what Flink SQL can do is a great way to get started with Apache Flink and stream processing. This is a course about Flink SQL, which is part of the Apache Flink project. | Source: https://developer.confluent.io
+<br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [SQL](#sql)
 
 ### Intermediate
 * [Your Guide to Flink SQL: An In-Depth Exploration](https://www.confluent.io/blog/getting-started-with-apache-flink-sql/): Everything you ever wanted to know about Flink SQL. | Source: https://developer.confluent.io
@@ -89,6 +91,8 @@ to the Java Flink APIs. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
 * [Monitoring Back Pressure](https://nightlies.apache.org/flink/flink-docs-stable/docs/ops/monitoring/back_pressure): The part of the Apache Flink documentation that you ant to see when you see a back pressure warning (e.g. High) for a task, indicating that it is producing data faster than the downstream operators can consume. | Source: https://apache.org/flink
 <br/>Tags: [Intermediate](#intermediate), [Documentation](#documentation)
+* [Apache Flink® Table API: Processing Data Streams in Java](https://developer.confluent.io/courses/flink-table-api-java/exercise-connecting-to-confluent-cloud/): The Apache Flink® Table API offers a high-level, relational API for both stream and batch processing, blending the DataStream API's power with the SQL API's simplicity, in Java or Python. | Source: https://developer.confluent.io
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 
 ### Advanced
 * [Monitoring Apahce Flink Applications 101](https://flink.apache.org/2019/02/21/monitoring-apache-flink-applications-101): A great collection of knowledge you need if you want to understand Flink metrics and monitor them - by Konstantin Knauf. | Source: https://flink.apache.org
@@ -124,6 +128,10 @@ to the Java Flink APIs. | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 * [Event Time and Watermarks](https://developer.confluent.io/courses/apache-flink/timely-stream-processing): This is part of Confluent's Apache Flink 101 course by David Anderson. It's worth calling it out, as it's an important subject if you want to use flink for real. It comes with hands-on exercises. This topic comes with an easy-to-follow hands-on exercise as well. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
+* [Apache Flink SQL](https://developer.confluent.io/courses/flink-sql): Exploring what Flink SQL can do is a great way to get started with Apache Flink and stream processing. This is a course about Flink SQL, which is part of the Apache Flink project. | Source: https://developer.confluent.io
+<br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [SQL](#sql)
+* [Apache Flink® Table API: Processing Data Streams in Java](https://developer.confluent.io/courses/flink-table-api-java/exercise-connecting-to-confluent-cloud/): The Apache Flink® Table API offers a high-level, relational API for both stream and batch processing, blending the DataStream API's power with the SQL API's simplicity, in Java or Python. | Source: https://developer.confluent.io
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 
 ### Documentation
 * [Flink Documentation by the Apache Software Foundation](https://nightlies.apache.org/flink/flink-docs-stable/): The Apache Flink documentation by the ASF | Source: https://apache.org
@@ -161,6 +169,10 @@ to the Java Flink APIs. | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 * [Event Time and Watermarks](https://developer.confluent.io/courses/apache-flink/timely-stream-processing): This is part of Confluent's Apache Flink 101 course by David Anderson. It's worth calling it out, as it's an important subject if you want to use flink for real. It comes with hands-on exercises. This topic comes with an easy-to-follow hands-on exercise as well. | Source: https://developer.confluent.io
 <br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises)
+* [Apache Flink SQL](https://developer.confluent.io/courses/flink-sql): Exploring what Flink SQL can do is a great way to get started with Apache Flink and stream processing. This is a course about Flink SQL, which is part of the Apache Flink project. | Source: https://developer.confluent.io
+<br/>Tags: [Beginner](#beginner), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [SQL](#sql)
+* [Apache Flink® Table API: Processing Data Streams in Java](https://developer.confluent.io/courses/flink-table-api-java/exercise-connecting-to-confluent-cloud/): The Apache Flink® Table API offers a high-level, relational API for both stream and batch processing, blending the DataStream API's power with the SQL API's simplicity, in Java or Python. | Source: https://developer.confluent.io
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 
 ## Language
 
@@ -174,6 +186,8 @@ to the Java Flink APIs. | Source: https://developer.confluent.io
 <br/>Tags: [Beginner](#beginner), [Book or Article](#book-or-article), [Java](#java)
 * [Flink Forward 2021: Introduction to Flink in 30 minutes](https://www.youtube.com/watch?v=RCP9-HdId9w): An introductory conference talk by David Anderson and Johannes Moser. | Source: https://youtube.com
 <br/>Tags: [Beginner](#beginner), [Video](#video), [Java](#java)
+* [Apache Flink® Table API: Processing Data Streams in Java](https://developer.confluent.io/courses/flink-table-api-java/exercise-connecting-to-confluent-cloud/): The Apache Flink® Table API offers a high-level, relational API for both stream and batch processing, blending the DataStream API's power with the SQL API's simplicity, in Java or Python. | Source: https://developer.confluent.io
+<br/>Tags: [Intermediate](#intermediate), [Guide or Tutorial](#guide-or-tutorial), [Hands-on Exercises](#hands-on-exercises), [Java](#java)
 
 ### Python
 * [The Python API for Flink: PyFlink](https://nightlies.apache.org/flink/flink-docs-stable/docs/dev/python/overview/): Whether it's the datastream or table API with SQL, PyFlink has you covered. | Source: https://apache.org/flink
