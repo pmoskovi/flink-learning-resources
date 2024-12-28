@@ -1,6 +1,6 @@
-<p align="center"><img src="./images/apache-flink.jpg" alt="flink logo"></p>
-
 <p align="center"><img src="./images/star-this-repo.gif" alt="Star this repository" /></p>
+
+<p align="center"><img src="./images/apache-flink.jpg" alt="flink logo"></p>
 
 # Apache Flink Learning Resources Repository
 Hello and welcome to my comprehensive collection of Apache Flink learning materials. This repository is designed to be a centralized resource for anyone looking to learn or deepen their knowledge of Apache Flink, regardless of their experience level.
@@ -27,10 +27,10 @@ Thank you for visiting and contributing to this collaborative effort. Together, 
 
  Happy Learning!
 
- P.s.: If you want to learn about Kafka, check out my [Kafka Learning Resources](https://github.com/pmoskovi/kafka-learning-resources) as well.
+ P.s.: If you want to learn about Kafka or Iceberg, check out my [Kafka Learning Resources](https://github.com/pmoskovi/kafka-learning-resources) and [Iceberg Learning Resources](https://github.com/pmoskovi/iceberg-learning-resources) as well.
 
 This document contains 23 Flink Learning Resources.
-Last updated: 12/22/2024 1:39:54 PM
+Last updated: 12/27/2024 8:32:32 PM
 
 ## Table of Contents 
 * [Skill Level (23)](#skill-level)
